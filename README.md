@@ -1,1 +1,1 @@
-This repository will contain my solations to LeetCode Problems
+This repository will contain my solutions to LeetCode Problems
